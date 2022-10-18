@@ -6,3 +6,11 @@
     font-size: 2rem;
     font-weight: bold;
 }
+.test-img{
+    text-align: center;
+    max-width: 600px;
+    margin: 0 auto;
+}
+.test-img img{
+    width: 100%;
+}
